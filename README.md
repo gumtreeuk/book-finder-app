@@ -9,7 +9,7 @@ Please allow yourself at least 1 hour of uninterrupted time for this task, but f
 
 ##The task
 
-Ths repo contains the skeleton source code for an Android app. For each of the below requirements, there should be an artifact (file) committed in the repo with the answer(s).
+Ths repo contains the source code for an Android app. For each of the below requirements, there should be an artifact (file) committed in the repo with the answer(s).
 
 Requirements:
 
@@ -17,7 +17,7 @@ Requirements:
 - Provide your own answers/assumptions to the questions above.
 - Define the acceptance criteria (AC) for the core functionality of the app.
 - Put together test scenarios (ideally in BDD format) that would verify that the AC/Requirements are met. Please consider any additional behaviours that should be tested.
-- Write automation tests to cover the core functionality of the app.
+- Write automation tests to cover the core functionality of the app. You are welcome to provide the solution in as many testing frameworks as you wish or know.
 
 ##Some insights into what we'll be looking for (and what we will not):
 
